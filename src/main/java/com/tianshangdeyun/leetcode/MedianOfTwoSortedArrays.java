@@ -1,7 +1,7 @@
 package com.tianshangdeyun.leetcode;
 
 /**
- * <p>类描述</p>
+ * <p>查找第k小的值，可以是用分治法。每次去除k/2个更小的值。</p>
  * 创建日期 2017/6/4
  *
  * @author tianshangdeyun(wangbo@eefung.com)
